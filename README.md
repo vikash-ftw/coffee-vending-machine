@@ -1,5 +1,6 @@
-# Coffee Machine
-A simple coffee machine using java's basics. <br/>
+# coffee-vending-machine
+
+A simple coffee vending machine using java's basics. <br/>
 It has three version checkout branches for those versions - <br/>
 1 . Basic - simply asks for cups quantity and return the amount of resources needed for specified quantity.<br/>
 2 . V1 - includes basic filling, then return if possible to make specified quantity of coffee. <br/>
